@@ -6,7 +6,7 @@ public class BranchDeneme {
 
 		System.out.println("saat 19.28 ilk commit branch");
 		
-		
+		System.out.println("feature'dan ekleme yaptim 19.36");
 		
 	}
 
